@@ -44,6 +44,6 @@
 
 ## 📫 聯繫方式
 - 📧 Email: audiaudy1@gmail.com
-- 🔗 LinkedIn: [陳楷融]((https://www.linkedin.com/in/%E6%A5%B7%E8%9E%8D-%E9%99%B3-599b06352/))
+- 🔗 LinkedIn: ![陳楷融](https://www.linkedin.com/in/%E6%A5%B7%E8%9E%8D-%E9%99%B3-599b06352/)
 
 > 熱愛創新｜勇於挑戰｜觀察細微｜融會貫通
