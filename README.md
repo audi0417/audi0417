@@ -39,8 +39,8 @@
 
 
 ## 📊 GitHub 統計
-![Kai-Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=audi0417&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audi0417&layout=compact&theme=tokyonight)
+![Kai-Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=audi0417&show_icons=true&theme=tokyonight&locale=zh-tw)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audi0417&layout=compact&theme=tokyonight&locale=zh-tw)
 
 ## 📫 聯繫方式
 - 📧 Email: audiaudy1@gmail.com
