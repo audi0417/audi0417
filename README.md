@@ -1,7 +1,7 @@
 # 陳楷融 (Chen Kai-Jung) | AI & Financial Data Scientist
 
 ## 👨‍💻 關於我 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2000&pause=200&center=true&vCenter=true&multiline=true&width=435&height=100&lines=%E6%88%91%E5%80%91%E4%B8%80%E7%94%9F%E5%81%9A%E4%B8%8D%E4%BA%86%E5%A4%AA%E5%A4%9A%E4%BA%8B;%E6%89%80%E4%BB%A5%E8%A6%81%E6%8A%8A%E6%AF%8F%E4%BB%B6%E4%BA%8B%E9%83%BD%E5%81%9A%E5%88%B0%E5%AE%8C%E7%BE%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=2000&pause=200&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=%E6%88%91%E5%80%91%E4%B8%80%E7%94%9F%E5%81%9A%E4%B8%8D%E4%BA%86%E5%A4%AA%E5%A4%9A%E4%BA%8B;%E6%89%80%E4%BB%A5%E8%A6%81%E6%8A%8A%E6%AF%8F%E4%BB%B6%E4%BA%8B%E9%83%BD%E5%81%9A%E5%88%B0%E5%AE%8C%E7%BE%8E)](https://git.io/typing-svg)
 
 現為國立臺北科技大學資訊與財金管理碩士班學生。專注於機器學習、深度學習在金融市場的應用研究。
 
