@@ -25,6 +25,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
 ## 📚 學術成果
+- 碩士論文：基於多因子模型與深度強化學習之臺股市場量化交易應用
 - IIAI AAI 2023：Applying a hybrid CNN-LSTM network to predict PM2.5 in Kaohsiung City
 - 科技部大專生研究計畫：以LSTM探討美國股市指數變動對我國股市加權指數開盤之影響
 - 多篇研討會論文發表，主題涵蓋LSTM在金融市場預測、疫情後台股趨勢、機器學習於心臟病預測等領域
@@ -33,8 +34,9 @@
 - 2025 第四屆保誠創新智造所 理想實踐獎
 - 2025 經濟部智慧創新大賞Best AI Awards 入圍
 - 2024 第三屆保誠創新智造所 評審特別獎
+- 2025 第8屆致青春‧創未來全國選拔大賽 優等獎
 - 2024 NTUE校園創業競賽(11th) 潛力獎
-- 2024 第7屆致青春‧創未來全國選拔大賽 優選
+- 2024 第7屆致青春‧創未來全國選拔大賽 優等獎
 - 2024 第八屆全國大專校院「healthy-×-happy」創新創業競賽 佳作
 - 2024 第四屆捷運盃黑客松 黑捷客獎
 - 2022、2023 叡揚資訊AIChatbot黑客松競賽活動 亞軍/情有獨鍾獎
